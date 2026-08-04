@@ -1,2 +1,2 @@
 # DSP-LAB
-Contains DSP Assignments
+Contains Assignments of DSP lab 
